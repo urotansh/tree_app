@@ -17,3 +17,4 @@ import "popper.js";
 import "bootstrap";
 import "../stylesheets/application" 
 import "../stylesheets/scaffolds"
+import '@fortawesome/fontawesome-free/js/all'
